@@ -38,3 +38,4 @@ doria
 anpan
 walnut
 onigiri
+sushi
