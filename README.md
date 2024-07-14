@@ -16,8 +16,12 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+Goal -I want contributors to help me list Japanese summer festivals you would like to visit.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+exsample.<br>
+Aomori Nebuta Festival (Aomori)<br>
+Akita Lantern Festival (Akita)
+
+Reference:　https://matcha-jp.com/jp/20187
 
 # List of Hobby
