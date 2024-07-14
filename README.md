@@ -24,4 +24,5 @@ Akita Lantern Festival (Akita)
 
 Reference:　https://matcha-jp.com/jp/20187
 
-# List of Hobby
+# List of Japanese summer festivals
+Omagari Hanabi(Akita)<br>
