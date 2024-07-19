@@ -27,3 +27,4 @@ Reference:　https://matcha-jp.com/jp/20187
 # List of Japanese summer festivals
 Omagari Hanabi(Akita)<br>
 Sendai Tanabata festival(Miyazaki)
+Gion Matsuri(Kyoto)
