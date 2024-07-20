@@ -29,3 +29,4 @@ Omagari Hanabi(Akita)<br>
 Sendai Tanabata festival(Miyazaki)<br>
 Gion Matsuri(Kyoto)<br>
 清正公二十三夜祭歩行者天国」<br>
+Sapporo Snow Festival(Hokkaido)<br>
