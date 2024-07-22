@@ -7,4 +7,5 @@
 - Yoshinoya
 - susiro-
 -Joyfull
+- OsakaOsho
 - BigBoy
