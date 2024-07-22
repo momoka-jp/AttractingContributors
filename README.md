@@ -10,4 +10,6 @@
 - India curry
 - OsakaOsho
 - BigBoy
--Mitsuba  
+- Mitsuba
+- Tenka Ippin
+
