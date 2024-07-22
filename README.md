@@ -7,5 +7,6 @@
 - Yoshinoya
 - susiro-
 -Joyfull
+- India curry
 - OsakaOsho
 - BigBoy
