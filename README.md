@@ -8,3 +8,5 @@
 - susiro-
 -Joyfull
 - India curry
+- OsakaOsho
+- BigBoy
