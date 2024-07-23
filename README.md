@@ -30,3 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Mario
 6. Monster Hunter
 7. fan-tan (card game)
+8. Apex Legends
+9. Mario Kart 8DX
