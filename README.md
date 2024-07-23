@@ -29,4 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Needy Girl Overdose
 5. Mario
 6. Monster Hunter
-7. Mario Kart 8DX
+7. Apex Legends
+8. Mario Kart 8DX
