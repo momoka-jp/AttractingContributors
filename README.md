@@ -12,4 +12,4 @@
 - BigBoy
 - Mitsuba
 - Tenka Ippin
-
+- Komeda
